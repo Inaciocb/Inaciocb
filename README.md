@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on mostly Desktop practicing purposed applications (PDF content finder and web bots)
 - 🌱 I’m currently learning: C language, GIT, Linux bash.
