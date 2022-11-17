@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 
 
+Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
 
 - 🌱 I’m currently learning: C language, GIT, Linux bash.
 - 🔭 I’m working on mostly Desktop practicing purposed applications (PDF content finder and web bots)
