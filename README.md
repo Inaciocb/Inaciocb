@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there! 
 
 Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
 
