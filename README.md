@@ -6,4 +6,5 @@ Since you've reached my profile for some reason, here is a summary about my acti
 -  I’m working on mostly Desktop practicing purposed applications (PDF content analysis, at the moment).
 -  My very next learning steps are going to be: Python, JavaScript and OCaml.
 -  You can reach me on [Instagram](https://www.instagram.com/inaciocbuemo/).
--  I'm an Information Systems undergraduate student at https://www.ufsm.br/ (Here's my major's curriculum:https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
+-  I'm an Information Systems undergraduate student at [Federal University of Santa MAria](https://www.ufsm.br/) 
+-  Here's my major's curriculum:https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo.
