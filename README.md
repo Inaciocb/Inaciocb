@@ -2,7 +2,7 @@
 
 Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
 
--  I’m learning: C language, GIT, Linux bash.
+-  I’m learning: C language, GIT, Linux bash, Python and Flask.
 -  I’m working on mostly Desktop practicing purposed applications (PDF content analysis, at the moment).
 -  My very next learning steps are going to be: Python, Rust and OCaml.
 -  You can reach me on [Instagram](https://www.instagram.com/inaciocbuemo/) or [Email](mailto:inaciocbdev@gmail.com).
