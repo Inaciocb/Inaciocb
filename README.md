@@ -10,4 +10,4 @@ Since you've reached my profile for some reason, here is a summary about my acti
 -  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
 -  For now, I'm mainly using Github as a backup for my college and personal stuff.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/inaciocbuemo/))
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/inaciocbuemo/)
