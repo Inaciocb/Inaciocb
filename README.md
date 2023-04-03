@@ -9,7 +9,7 @@
 -  My very next learning steps are: Python, Rust and OCaml.
 -  I'm an Information Systems undergraduate student at [Federal University of Santa Maria](https://www.ufsm.br/).
 -  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
--  For now, I'm mainly using Github as a backup for my college and personal stuff.
+-  For now, I'm mainly using GitHub as a backup for my college work (since it's a requirement) as well as to store my personal files.
 
 </p>
 
