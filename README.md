@@ -1,14 +1,20 @@
-### Hi there! 
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inaciocb" alt="inaciocb" /></a> </p>
 
--  I’m learning: C language, GIT, Linux bash, Python and Flask.
--  I’m working on mostly Desktop practicing purposed applications (PDF content analysis, at the moment).
--  My very next learning steps are: Python, Rust and OCaml.
--  I'm an Information Systems undergraduate student at [Federal University of Santa Maria](https://www.ufsm.br/).
--  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
--  For now, I'm mainly using Github as a backup for my college and personal stuff.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Email](mailto:inaciocbdev@gmai.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/inácio camargo buemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inácio camargo buemo" height="30" width="40" /></a>
+<a href="https://instagram.com/inaciocbuemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inaciocbuemo" height="30" width="40" /></a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/inaciocbuemo/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inaciocb&show_icons=true&locale=en&layout=compact" alt="inaciocb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inaciocb&show_icons=true&locale=en" alt="inaciocb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inaciocb&" alt="inaciocb" /></p>
