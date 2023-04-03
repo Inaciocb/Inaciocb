@@ -1,5 +1,21 @@
 <h3 align="center">Welcome to my profile</h3>
 
+
+<p>
+  Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
+
+-  I’m learning: C language, C++, GIT, Linux bash, the front-end kit (JavaScript, HTML and CSS) and python alongside with Flask.
+-  I’m working on mostly Desktop practicing purposed applications (PDF content analysis, at the moment).
+-  My very next learning steps are: Python, Rust and OCaml.
+-  I'm an Information Systems undergraduate student at [Federal University of Santa Maria](https://www.ufsm.br/).
+-  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
+-  For now, I'm mainly using Github as a backup for my college and personal stuff.
+
+</p>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/in%C3%A1cio-camargo-buemo-4a0b05254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inácio camargo buemo" height="30" width="40" /></a>
