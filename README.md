@@ -4,7 +4,7 @@
 <p>
   Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
 
--  I’m learning: C language, C++, GIT, Linux bash, the front-end kit (JavaScript, HTML and CSS) and python alongside with Flask.
+-  I’m learning: C language, C++, Java, GIT, Linux bash, and the front-end kit (JavaScript, HTML and CSS).
 -  I’m working on mostly Desktop practicing purposed applications (PDF content analysis, at the moment).
 -  My very next learning steps are: Python, Rust and OCaml.
 -  I'm an Information Systems undergraduate student at [Federal University of Santa Maria](https://www.ufsm.br/).
