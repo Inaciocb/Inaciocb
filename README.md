@@ -6,7 +6,6 @@
 
 -  I’m learning: C language, C++, Java, GIT, Linux bash, and the front-end kit (JavaScript, HTML and CSS).
 -  I’m working on mostly Desktop practicing purposed applications (PDF content analysis, at the moment).
--  My very next learning steps are: Python, Rust and OCaml.
 -  I'm an Information Systems undergraduate student at [Federal University of Santa Maria](https://www.ufsm.br/).
 -  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
 -  For now, I'm mainly using GitHub as a backup for my college work as well as to store my personal files.
