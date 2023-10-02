@@ -3,7 +3,7 @@
 <p>
   Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
 
--  I'm an intern at [Zeit](https://zeit.com.br/), a brazilian startup that's nurtured amidst [Federal University of Santa Maria](https://www.ufsm.br/), where i'm majoring in Information Systems.
+-  I'm an intern at [Zeit](https://zeit.com.br/), a brazilian startup that's nurtured amidst [Federal University of Santa Maria](https://www.ufsm.br/), university in which i'm majoring in Information Systems.
 -  I’m learning: Angular Framework, Springboot, python scripting, shell scripting, OCaml, Haskell.
 -  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
 
