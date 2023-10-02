@@ -1,13 +1,11 @@
 <h3 align="center">Welcome to my profile</h3>
 
-
 <p>
   Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
 
--  I’m learning: C language, C++, Java, GIT, Linux bash, and the front-end kit (JavaScript, HTML and CSS).
--  I'm an Information Systems undergraduate student at [Federal University of Santa Maria](https://www.ufsm.br/).
+-  I'm an intern at Zeit, a startup that's nurtured amidst [Federal University of Santa Maria](https://www.ufsm.br/), where i'm majoring in Information Systems.
+-  I’m learning: Angular Framework, Springboot, python scripting, shell scripting, OCaml, Haskell.
 -  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
--  For now, I'm mainly using GitHub as a backup for my college work as well as to store my personal files.
 
 </p>
 
