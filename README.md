@@ -1,7 +1,7 @@
 <h3 align="center">Welcome to my profile</h3>
 
 <p>
-  Since you've reached my profile for some reason, here is a summary about my activity in programming that one may be interested in!
+  Here is a summary about my activity in programming that one may be interested in!
 -  I’m learning: Angular Framework, Springboot, python scripting, shell scripting, OCaml, Haskell.
 -  [Here's my major's curriculum](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo).
 
