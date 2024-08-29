@@ -3,7 +3,7 @@
 <p>
   Here is a summary about my activity in programming that one may be interested in!
 -  I’m learning: Angular Framework, Springboot, python scripting, shell scripting, OCaml, Haskell.
--  Here’s the [curriculum for my major](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo)
+-  [Here’s the curriculum for my major](https://www.ufsm.br/cursos/graduacao/santa-maria/sistemas-de-informacao/informacoes-do-curriculo)
 
 </p>
 
